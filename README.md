@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👋 Hey, I'm Soumitra Pal!<br><br>🎓 B.Tech Student in Artificial Intelligence  <br>💻 Aspiring Full-Stack Web Developer  <br>🌱 Currently learning the MERN Stack (MongoDB, Express.js, React, Node.js)  <br>🤖 Interested in Artificial Intelligence, Machine Learning & Web Development  <br>🚀 Exploring new technologies and building projects to improve my skills.<br><br>**My Goal:** To combine AI and Web Development to build innovative and meaningful applications.
+## 👋 Hey, I'm Soumitra Pal!<br><br>🎓 B.Tech Student in Artificial Intelligence  <br>💻 Aspiring Full-Stack Web Developer  <br>🌱 Currently learning the MERN Stack (MongoDB, Express.js, React, Node.js)  <br>🤖 Interested in Artificial Intelligence, Machine Learning & Web Development  <br>🚀 Exploring new technologies and building projects to improve my skills.<br>
 
 
 ## 🌐 Socials:
